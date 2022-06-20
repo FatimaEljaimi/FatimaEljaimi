@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Fatima El Jaimi
 #### *A Future Business Intelligence Engineer and a backend developer.*
-![*A Future Business Intelligence Engineer and a backend developer.*]
 
 I'm currently a student and I just started my journey in the data analysis world. 
 I love coding as well , and I have some experience with java/Jee technologie.
