@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Fatima El Jaimi
-#### *A future Business Intelligence Engineer.*
+#### *A senior Business Intelligence engineering student.*
 
 I'm currently a student and I just started my journey in the data analysis and B.I world. 
 
