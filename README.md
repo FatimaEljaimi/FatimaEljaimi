@@ -4,7 +4,7 @@
 I'm currently a student and I just started my journey in the data analysis and B.I world. 
 
 
-- 🌱 I’m currently learning **Microsoft Azure Fundamentals**
+- 🌱 I’m currently working on a **face recognition system**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FatimaEljaimi](https://github.com/FatimaEljaimi)
 
