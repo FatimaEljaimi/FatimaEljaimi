@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/FatimaEljaimi](https://github.com/FatimaEljaimi)
 
-- 📫 How to reach me **fatima.eljaimi17@gmail.com | https://www.linkedin.com/in/fatima-eljaimi/**
+- 📫 How to reach me **f.eljaimi@gmail.com | https://www.linkedin.com/in/fatima-eljaimi/**
 
 
 
