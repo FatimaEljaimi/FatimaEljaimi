@@ -1,10 +1,8 @@
 ### Hi there 👋, I'm Fatima El Jaimi
-#### *A senior Business Intelligence engineering student.*
-
-I'm currently a student and I just started my journey in the data analysis and B.I world. 
+#### *A Junior AI Consultant.*
 
 
-- 🌱 I’m currently working on a **face recognition system**
+- 🌱 I’m currently working on a **Smart road signs system** to prioritize disabled people, emergencies and much more.
 
 - 👨‍💻 All of my projects are available at [https://github.com/FatimaEljaimi](https://github.com/FatimaEljaimi)
 
